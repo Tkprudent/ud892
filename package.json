@@ -1,0 +1,22 @@
+{
+  "name": "ud892",
+  "version": "1.0.0",
+  "description": "To learn the web automation udacity course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udacity/ud892.git"
+  },
+  "author": "Kazeem Tijani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udacity/ud892/issues"
+  },
+  "homepage": "https://github.com/udacity/ud892#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
